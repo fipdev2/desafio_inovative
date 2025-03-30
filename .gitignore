@@ -1,6 +1,8 @@
-# Ignorar arquivos PDF
+# Ignorar arquivos PDF gerados
 *.pdf
 
-# Ignorar arquivos ZIP e RAR
+# Ignorar arquivos ZIP gerados
 *.zip
-*.rar
+
+# Ignorar arquivos tabelas geradas
+*.csv
