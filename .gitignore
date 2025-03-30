@@ -1,0 +1,6 @@
+# Ignorar arquivos PDF
+*.pdf
+
+# Ignorar arquivos ZIP e RAR
+*.zip
+*.rar
