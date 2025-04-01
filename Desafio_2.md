@@ -1,4 +1,4 @@
-# Desafio 2 - Extração e Processamento de Dados do PDF
+# Desafio 2 - Teste de Transformação de Dados
 
 Este projeto tem como objetivo extrair tabelas de um arquivo PDF específico, processá-las e gerar um arquivo CSV compactado em um ZIP.
 
@@ -12,7 +12,6 @@ Para garantir um ambiente isolado, crie um ambiente virtual e instale as depend�
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # No Windows use: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -23,7 +22,7 @@ pip install -r requirements.txt
 3. Execute o script:
 
 ```bash
-python desafio_2.py
+python desafio_2/index.py
 ```
 
 O script irá:
@@ -39,3 +38,6 @@ Após a execução, o arquivo `Teste_Filipe.zip` estará disponível no diretór
 
 Se encontrar algum problema, certifique-se de que os PDFs estão corretamente baixados na pasta `anexos` e que o ambiente virtual está ativado com todas as dependências instaladas.
 
+<hr>
+
+[🔙 Voltar](README.md)

@@ -36,3 +36,6 @@ Após a execução bem-sucedida, o arquivo `anexos.zip` conterá os PDFs baixado
 
 Caso tenha alguma dúvida ou encontre problemas, verifique sua conexão com a internet e tente novamente.
 
+<hr>
+
+[🔙 Voltar](README.md)

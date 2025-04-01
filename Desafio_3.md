@@ -119,5 +119,7 @@ Este desafio tem como objetivo a manipulação de grandes volumes de dados finan
 
 Caso encontre algum problema, verifique se os arquivos CSV estão corretamente formatados e se a conexão com o banco de dados está ativa.
 
+<hr>
+
 [🔙 Voltar](README.md)
 
